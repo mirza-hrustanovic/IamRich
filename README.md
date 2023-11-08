@@ -1,0 +1,2 @@
+# IamRich
+Simple Flutter app
